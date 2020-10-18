@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Your template template
+.DS_Store
+.gitignore
+*.idea
+*.iml
+*node_modules
+package-lock.json
+out
+gen
+.svn
+.cvs
+.git
+.hg
+*.hprof
+*.pyc
